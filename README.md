@@ -46,5 +46,6 @@ The Maze Solver project is a simple Python application that finds a solution pat
 4.Make your changes and commit them.
 5.Push your changes to your fork.
 6.Submit a pull request.
+hello sangamesh
 
 
